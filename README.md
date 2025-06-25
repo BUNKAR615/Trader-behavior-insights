@@ -24,7 +24,6 @@ This project explores the relationship between crypto trader performance and Bit
   - `classification`: Market sentiment (e.g., Fear, Greed, Extreme Fear)
 
 ---
-
 ## 🛠️ Tasks Performed
 
 1. **Data Loading and Cleaning**
